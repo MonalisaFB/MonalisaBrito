@@ -1,7 +1,7 @@
 # Olá, eu sou a Monalisa!
 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou bolsista do iFood na escola Cubos Academy, onde estou cursando Desenvolvimento Web com foco em backend, utilizando JavaScript e Node.js. Tenho conhecimento em análise de dados e representação com SQL e Power BI, além de programar em JavaScript. Estou em transição de carreira há 1 ano e estou ansiosa para aplicar minhas habilidades e paixão por tecnologia para contribuir com projetos inovadores.
   </p>
 
 <a href= "https://www.linkedin.com/in/monalisa-brito/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
